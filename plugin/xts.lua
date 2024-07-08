@@ -1,1 +1,1 @@
-print("xts load")
+require("xts/it2copy").init()
